@@ -3,7 +3,7 @@ copy files via a simple queue service
 
 run service:
 ```sh
-> python service.py
+> python server.py
 ```
 
 copy *source* file to *target* file :
