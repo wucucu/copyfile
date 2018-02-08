@@ -6,7 +6,7 @@ run service:
 > python server.py
 ```
 
-copy *source* file to *target* file :
+copy `sourcefile` to `targetfile`:
 ```sh
 > python solution.py sourcefile targetfile
 ```
